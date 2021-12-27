@@ -1,0 +1,20 @@
+.section{
+	text-align:justify;
+
+
+}
+.sub_section {
+	text-indent: 5%;
+	text-align:justify;
+}
+h2,h3{
+	word-spacing: 2px;
+	text-align:left;
+	margin: 2px;
+	text-decoration-line: underline;
+	text-transform: uppercase;
+
+}
+.mon{
+	margin-left: 30px ;
+}
